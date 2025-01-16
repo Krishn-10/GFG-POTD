@@ -1,4 +1,8 @@
 //Equilibrium Point
+//14-01-2025
+//Space comp - O(1)
+//Time Comp - O(n)
+
 class Solution {
     // Function to find equilibrium point in the array.
     public static int findEquilibrium(int arr[]) {
