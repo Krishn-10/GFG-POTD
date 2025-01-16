@@ -1,4 +1,6 @@
 //Container With Most Water
+//Space comp - O(1)
+//Time comp - O(n)
 class Solution {
 
     public int maxWater(int arr[]) {
