@@ -2,6 +2,7 @@
 // 12-01-2025
 // Time comp - o(n)
 // Space Comp - O(1)
+// Approach - Prefix Sum
 
 class Solution {
     public int maxWater(int arr[]) {
