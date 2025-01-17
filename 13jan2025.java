@@ -1,8 +1,11 @@
 //Container With Most Water
+//13-01-2025
 //Space comp - O(1)
 //Time comp - O(n)
-class Solution {
+//Approach - Two Pointer
 
+
+class Solution {
     public int maxWater(int arr[]) {
         int i = 0;
         int j = arr.length-1;
