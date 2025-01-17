@@ -2,6 +2,8 @@
 //Longest Subarray with Sum K
 //Space comp - O(n) 
 //Time Comp - O(n)
+// Approach - Prefix Sum
+
 class Solution {
     public int longestSubarray(int[] arr, int k) {
         // code here
