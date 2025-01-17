@@ -2,6 +2,7 @@
 // 11-01-2025
 //Space Comp - O(1)
 //Time Comp - O(n*2)
+//Approach - Brute Force
 
 class Solution {
     public int longestUniqueSubstr(String s) {
